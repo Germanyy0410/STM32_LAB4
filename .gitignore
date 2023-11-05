@@ -2,18 +2,18 @@
 # *
 # !*/
 
-# # Allow specific files
-# !proteus-project/proteus-lab4.pdsprj
+# Allow specific files
+!proteus-project/proteus-lab4.pdsprj
 
-# !stm32-project/Core/Inc/command_parser.h
-# !stm32-project/Core/Src/command_parser.c
-# !stm32-project/Core/Inc/uart_communication.h
-# !stm32-project/Core/Inc/uart_communication.c
-# !stm32-project/Core/Src/command_parser.c
-# !stm32-project/Core/Inc/global.h
-# !stm32-project/Core/Src/global.c
-# !stm32-project/Core/Inc/main.h
-# !stm32-project/Core/Src/main.c
-# !stm32-project/Core/Inc/software_timer.h
-# !stm32-project/Core/Src/software_timer.c
-# !traffic-light-project.ioc
+!stm32-project/Core/Inc/command_parser.h
+!stm32-project/Core/Src/command_parser.c
+!stm32-project/Core/Inc/uart_communication.h
+!stm32-project/Core/Inc/uart_communication.c
+!stm32-project/Core/Src/command_parser.c
+!stm32-project/Core/Inc/global.h
+!stm32-project/Core/Src/global.c
+!stm32-project/Core/Inc/main.h
+!stm32-project/Core/Src/main.c
+!stm32-project/Core/Inc/software_timer.h
+!stm32-project/Core/Src/software_timer.c
+!traffic-light-project.ioc
